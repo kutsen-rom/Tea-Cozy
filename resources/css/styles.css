@@ -160,3 +160,7 @@ nav a {
     text-align: left;
     margin-left: 20px;
 }
+
+:target {
+    scroll-margin-top: 70px;
+}
